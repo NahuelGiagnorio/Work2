@@ -116,7 +116,11 @@ a:hover {
         width: 45%;
     }
 
-    p+div {
+    div img {
+        width: 25%;
+    }
+
+    section + div {
         margin-bottom: 6.25em;
         display: flex;
         justify-content: space-between;
